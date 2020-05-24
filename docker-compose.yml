@@ -1,0 +1,10 @@
+version: "3.7"
+
+services:
+
+  fast-api:
+    build: ./app
+    container_name: fast-api
+    restart: always
+    ports:
+      - "80:80"
