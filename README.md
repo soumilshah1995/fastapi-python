@@ -6,7 +6,7 @@ Learn How to make and deploy Fast api in python using docker
 
 ## Tutorials :
 
-* Video 1:
-* Video 2:
+* Video 1:https://www.youtube.com/watch?v=Grso4ET1aHI
+* Video 2:https://www.youtube.com/watch?v=jgUxc_7LaoM
 * Video 3:
 
