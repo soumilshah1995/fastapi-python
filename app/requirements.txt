@@ -7,7 +7,7 @@ itsdangerous==1.1.0
 Jinja2==2.11.2
 MarkupSafe==1.1.1
 numpy==1.22.0
-opencv-python==3.2.0.8
+opencv-python==4.2.0.32
 pydantic==1.5.1
 starlette==0.25.0
 uvicorn==0.11.5
